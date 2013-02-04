@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    tomcat: git://github.com/jmchilton/puppet-tomcat.git
+  symlinks:
+    tint: "#{source_dir}"
